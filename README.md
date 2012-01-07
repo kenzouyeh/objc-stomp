@@ -1,6 +1,8 @@
 STOMP client for Objective-C
 ============================
 
+fork project.
+
 This is a simple STOMP client based on
 
 * an initial implementation (StompService) from Scott Raymond <sco@scottraymond.net> (see [http://gist.github.com/72935](http://gist.github.com/72935))
